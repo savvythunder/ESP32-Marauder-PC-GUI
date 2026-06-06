@@ -21,7 +21,7 @@ A lightweight, feature-rich Graphical User Interface (GUI) written in Python (Tk
 ## 📥 Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/wubery/ESP32-Marauder-PC-GUI.git
+   git clone https://github.com/savvythunder/ESP32-Marauder-PC-GUI.git
    ```
 2. Install the required dependencies:
    ```bash
